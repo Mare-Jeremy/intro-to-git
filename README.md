@@ -12,3 +12,6 @@ steps to use git
 - add file
 - git commit
 - git push origin master
+
+STEPS TO UDATE YOUR LOCAL REPO
+- GIT PULL AND ORIGIN MASTER
